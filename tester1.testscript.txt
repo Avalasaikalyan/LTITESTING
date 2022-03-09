@@ -1,0 +1,5 @@
+@Tester
+public void Tester1(){
+
+   System.out.println("testscript");
+}
